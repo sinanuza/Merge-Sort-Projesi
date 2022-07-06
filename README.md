@@ -24,6 +24,8 @@ sıralama yukarıdaki gibi geri birleşir fakat bu defa küçük olanlar sol tar
 
 şeklinde sıralanmış olur.
 
+O(nlogn)
+
 
 
 https://app.patika.dev/sinanuza
